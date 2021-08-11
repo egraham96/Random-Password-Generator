@@ -15,7 +15,7 @@ This week’s homework requires you to modify starter code to create an applicat
                                                                                         
 ## Preview of Working Site:
 ![Screenshot of Deployed Application](Assets/ScreenshotofDeployedApplication.PNG)
-![Screenshot of Deployed Application](Assets/ScreenshotofDeployedApplication2.PNG)
+![Screenshot of Deployed Application](Assets/AnotherScreenshotofDeployedApplication.PNG)
 
 ## Contact the Creator:
 * Emma Graham: https://github.com/egraham96
