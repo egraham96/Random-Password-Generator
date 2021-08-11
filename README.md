@@ -8,7 +8,6 @@ This week’s homework requires you to modify starter code to create an applicat
 * CSS
 * Javascript
 
-
 ## Deployed Links:
 * [See Live Site](https://egraham96.github.io/homework-assignment-03/)
 * [Link to GitHub Repo](https://github.com/egraham96/homework-assignment-03)
